@@ -1,0 +1,37 @@
+12S24003 - MICHAEL PRATAMA NASUTION
+
+PROMPT:
+
+Jelakan logika soal ini kepada saya
+
+jelaskan logikanya dalam oop java
+
+visualisasikan agar saya lebih mudah memahami konsep soal ini
+
+coba jelaskan dan kerjakan soal ini secara matematis dulu agar saya paham konsepnya
+
+buatkan saya gambar dari kedua odometer itu sebelum dan sesudah, agar saya mudah memahami visualnya
+Tolong buatkan gambar infografis fotorealistik dengan gaya dua panel (kiri dan kanan) yang memvisualisasikan konsep 'Integer Overflow 32-bit' menggunakan analogi odometer mekanik kuno.
+Panel Kiri (Diberi label: 'SEBELUM: Batas Maksimum Positif'):
+Tampilkan sebuah odometer logam yang terlihat tua dan penuh. Angka pada roda gigi harus menunjukkan tepat '2 1 4 7 4 8 3 6 4 7'. Di sebelah kiri angka, harus ada indikator fisik atau lampu yang menampilkan tanda Plus (+) berwarna Hijau terang, menandakan bilangan positif. Mekanismenya terlihat tegang seolah sudah mencapai batasnya.
+Transisi:
+Di antara kedua panel, gambarkan sebuah panah besar yang mengarah ke kanan dengan teks di atasnya: '+ 1 (Penambahan)'.
+Panel Kanan (Diberi label: 'SESUDAH: Overflow ke Minimum Negatif'):
+Tampilkan odometer yang sama setelah dipaksa ditambah satu. Roda angkanya telah berputar paksa (wrap around) dan sekarang menunjukkan angka '- 2 1 4 7 4 8 3 6 4 8'. Poin paling penting: Indikator tanda di sebelah kiri kini telah berubah drastis menjadi tanda Minus (-) berwarna Merah terang. Tambahkan juga lampu peringatan merah yang menyala atau berkedip dengan teks 'OVERFLOW ERROR' untuk mendramatisir bahwa telah terjadi kesalahan pada sistem.
+
+jelaskan sedikit, kenapa bisa terjadi overflow?
+
+Error apa ini?
+
+Jelaskan konsep soal nomor 2
+
+oke kita move on ke soal 3, bagaimana logikanya
+
+jelaskan logika soal nomor 4 serta visualisasinya
+
+kita move on ke nomer 5, jelaskan secara logika maksud soal ini, dan visualisasikan
+
+sekarang saya mau, membuat semua kode program soal ini dalam satu file Main.java,
+jadi konsepnya adalah saya bisa sesuka hati memilih soal mana yang akan dikerjakan saat saya plih dan kemudia menginput sesuai dengan soal tersebut,
+apa saja logika yang bisa di implementasikan dalam memecahkan konsep mem-batch solusi dalam satu file program seperti ini?
+apakah if else? atau swtich case? atau ada cara2 yang lain? jelaskan dan berikan pendapat mana yang paling reliable

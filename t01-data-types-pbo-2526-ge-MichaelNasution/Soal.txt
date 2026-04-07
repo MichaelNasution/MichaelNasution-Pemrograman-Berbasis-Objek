@@ -1,0 +1,155 @@
+Soal 1 — Integer Overflow Detection!
+Deskripsi
+
+Baca dua bilangan bulat bertipe int.
+Program harus menjumlahkan kedua bilangan tersebut.
+
+Jika terjadi integer overflow, cetak:
+
+OVERFLOW
+
+
+Jika tidak terjadi overflow, cetak hasil penjumlahan.
+
+⚠️ DILARANG menggunakan long, BigInteger, atau try-catch untuk mendeteksi overflow.
+
+Input:
+Soal1 a b
+
+Output
+hasil penjumlahan
+
+Contoh Input:
+Soal1 2147483647 1
+
+Contoh Output:
+OVERFLOW
+
+
+Contoh Input 2:
+Soal1 1000000000 1000000000
+
+Contoh Output 2:
+2000000000
+
+Soal 2 — Float vs Double Precision Trap!
+Deskripsi
+
+Baca dua bilangan desimal.
+
+Jumlahkan keduanya menggunakan float
+
+Jumlahkan keduanya menggunakan double
+
+Hitung selisih absolut dari kedua hasil tersebut
+
+Output harus ditampilkan dengan 6 digit di belakang koma.
+
+Input
+Soal2 x y
+
+Contoh Input
+Soal2 0.1 0.2
+
+Contoh Output
+0.000000
+
+Contoh Input
+Soal2 1234567.89 0.11
+
+Contoh Output
+0.015625
+
+Soal 3 — Primitive vs Wrapper Comparison!
+Deskripsi
+
+Baca satu bilangan bulat N.
+
+Lakukan langkah berikut:
+
+Simpan N ke dalam objek Integer a
+
+Salin nilai a ke Integer b
+
+Tambahkan 1 ke a
+
+Bandingkan a dan b menggunakan:
+
+operator ==
+
+method equals()
+
+Input
+Soal3 N
+
+Contoh Input
+Soal3 127
+
+Contoh Output
+==: false
+equals: false
+
+Contoh Input
+Soal3 128
+
+Contoh Output
+==: false
+equals: false
+
+Soal 4 — String Immutability & Reference!
+Deskripsi
+
+Baca satu string S.
+
+Lakukan langkah berikut:
+
+Buat String a = S
+
+Buat String b = new String(S)
+
+Gabungkan string "X" ke a
+
+Bandingkan a dan b menggunakan:
+
+operator ==
+
+method equals()
+
+Input
+Soal4 S
+
+Contoh Input
+Soal4 hello
+
+Contoh Output
+==: false
+equals: false
+
+Soal 5 — Parsing & Type Safety!
+Deskripsi
+
+Baca satu bilangan bulat, satu bilangan desimal, dan satu boolean.
+
+Lakukan langkah berikut:
+
+Parse seluruh input ke tipe data yang sesuai
+
+Hitung:
+
+integer × double
+
+
+Jika nilai boolean adalah false, hasil dikali -1
+
+Cetak hasil dengan 2 digit di belakang koma
+
+⚠️ DILARANG melakukan casting manual antar tipe.
+
+Input
+Soal5 integer double boolean
+
+Contoh Input
+Soal5 10 2.5 false
+
+Contoh Output
+-25.00
