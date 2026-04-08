@@ -1,0 +1,14 @@
+ini adalah struktur kuis oop saya
+
+sekarang kita akan mengerjakan soal nomor 2 tanpa merusak program pada soal nomor 1 ini
+
+ini adalah soal nomor 2, sebelum kita buatkan program nya, mari kita pahami soal ini point per point dan merancang struktur programnya
+
+driver 2 masih kosong karena itu tempat pengerjaan untuk nomor 2, mari kita mulai membangun program nya
+
+oke sekarang buatkan cara compilenya, dan contoh inputan kita
+
+kirimkan ke saya program final driver1, driver2, dan solution
+
+ya benar, sekarang kita lakukan test besar
+

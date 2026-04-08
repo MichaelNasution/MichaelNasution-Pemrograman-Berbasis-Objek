@@ -1,0 +1,11 @@
+berikut soal nomor 1, sebelum membangun program solusinya, mari bahas apa yang diminta pada soal, point per point
+
+dari gambar output, yang mana yang diminta?
+
+oke untuk outputnya nanti, kita tambahkan satu kolom yang telah di diskon, lalu total pembayaran adalah jumlah dari yang telah di diskon
+
+oke sekarang bangun solusinya, sesuai dengan struktur dari prompt saya yang pertama tadi, kita juga bisa menggunakan model seperti yang kamu lihat pada folder src.
+
+buatkan contoh inputan nya
+
+apa yang saya input saat end?

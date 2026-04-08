@@ -1,0 +1,45 @@
+ini adalah struktur pengerjaan quiz oop sayaberikut program driver1, driver2, dan solution pada pengerjaan yang sejauh ini saya sudah kerjakan, 
+
+nah setelah ini task kita adalah memahami soal nomor 3, lalu kita akan membangun program sesuai yang diminta dari soal itu, 
+
+yang saya mau, kita tetap mengerjakannya di satu file solution itu, dan kita juga akan mengerjakannya di file driver 3 (sekarang masih kosong) untuk soal nomor 3 ini
+
+
+
+
+Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.:
+
+Jadi IT Del menggunakan sistem perkuliahan yang mahasiswanya ber-asrama, 
+laundry kami dibuat menggunakan LB (Laundry Bag), tiap2 orang memiliki satu laundry Bag
+
+konsepnya adalah, setiap pakaian kotor kami akan kami masukkan ke LB dan kami list di sebuah kertas yang berbentuk seperti bon (saat kami tulis satu kertas tinggal dengan kami, dan satu kertas dimasukkan ke dalam LB sebagai bukti list pakaian kami), dan di tiap hari jumat malam
+akan ada mobil dari pihak laundry yang datang menjemput ke asrama semua LB kami itu,
+
+untuk harga per kilo nya saya tidak pasti, namun katakanlah 7000 rupiah perkilo, 
+dan pada saat penjemputan, pihak laundry akan mengecek berat, maksimal berat adalah 7 kilo
+hasil dari total kilo tadi, akan otomatis masuk ke VA uang tagihan bulanan kami yang ber-asrama ini.
+Oke sekarang pengerjaan, pengerjaan laundry saya tidak tahu pasti bagaimana cara mereka mengerjakannya, namu itu cukup cepat,
+jumat malam dijemput, sabtu sore sudah dilaundry dan sudah diantar ke asrama kami,
+
+begitulah penjelasan singkat mengenai laudnry di IT del, 
+
+mari kita bangun sebuah sistem yang dapat mendukung operasional sehari-hari bagi laundry del. 
+balik lagi kita harus menyesuaikan ke soal (maka dari itu kita explore apa dan bagaimana) "Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del."
+
+
+Pertanyaan Penting Sebelum Kita Coding
+
+Saya perlu tahu:
+
+Apakah soal meminta inheritance? kami belum masuk sampai materi ini
+
+Apakah soal menyebutkan interface? apakah bisa kita buat yang sederhana? waktu saya cuma 10mnt
+
+Apakah hanya diminta sistem sederhana? ya
+
+Apakah ada format output tertentu? ehm tidak ada, intinya se kreatif mungkin dan jelas harus ada input output
+
+
+
+Saya Mau Tanya 1 Hal Penting
+Apakah multi mahasiswa atau 1 saja? jelas sistem ini untuk multi mahasiswa, karena tujuan kita mempermudah pihak laundry dalam mengerjakan itu untuk melayani ratusan mahasiswa
