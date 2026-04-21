@@ -1,0 +1,8 @@
+add lecturer.java
+add InputParser.java
+add Grade.java
+
+fixed some problems
+
+Selesai mengerjakan praktikum
+
